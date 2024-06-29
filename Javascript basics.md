@@ -69,29 +69,40 @@ An operator is a mathematical symbol that produces a result based on two values 
 ### Following are the operators allowed in javascript:
 - Addition (+)
 Addition operator is used to add numerical values which is an arithmetic operation and also to join two strings.
+
 ```
 6 + 9;
-'Hellow ' + 'World!';
+'Hello ' + 'World!';
 ```
+
 - Subtration (-)
+
 ```
 6 - 9;
 ```
+
 - Multiplication (*)
+
 ```
 6 * 9;
 ```
+
 - Division (/)
+
 ```
 6 / 9;
 ```
+
 - Assignment (=)
 This variable assigns the value on the right of operator to the variable name on left.
+
 ```
 let myVariable = 45;
 ```
+
 - Strict equality (===)
 This checks whether both the operands are of same value and same data type.
+
 ```
 let myVar = 9;
 console.log(myVar === 7);
@@ -100,8 +111,8 @@ This will produce **False** as both values are not equal.
 
 - Not, does-not-equal (!, !=)
 This returns logically opposite value of what it precedes.
-
 For **Not**, the basic expression is true, but the comparison returns false because we negate it:
+
 ```
 let myVariable = 3;
 !(myVariable === 3);
