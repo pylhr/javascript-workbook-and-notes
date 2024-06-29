@@ -1,6 +1,6 @@
-#Javascript-Basics
+# Javascript-Basics
 
-##Variables
+## Variables
 
 These are containers that store values.
 
@@ -18,3 +18,30 @@ console.log(myVariable);
 
 This will simply log out the value of variable in browser console.
 
+### Following are the data types variables can hold:
+
+- String
+```
+let myVariable = 'I'm a string';
+```
+
+- Number
+```
+let myVariable = 12;
+```
+
+- Boolean
+```
+let myVariable = True;
+let myVariable = False;
+```
+
+- Array
+```
+let myVariable = [1, 'Bob', 'Charlie', 'Roronoa Zoro', False];
+```
+
+- Object
+```
+let myVariable = document.querySelector('h1');
+```
