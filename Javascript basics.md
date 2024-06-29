@@ -4,7 +4,7 @@
 
 These are containers that store values.
 
-The keyword we use to define variable is 'let'.
+The keyword we use to define variable is **let**.
 
 ```
 let myVariable = 12;
@@ -17,3 +17,4 @@ console.log(myVariable);
 ```
 
 This will simply log out the value of variable in browser console.
+
