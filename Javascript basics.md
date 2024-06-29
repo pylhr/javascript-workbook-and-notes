@@ -32,8 +32,8 @@ let myVariable = 12;
 
 - Boolean
 ```
-let myVariable = True;
-let myVariable = False;
+let myVariable = true;
+let myVariable = false;
 ```
 
 - Array
