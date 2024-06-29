@@ -45,3 +45,19 @@ let myVariable = [1, 'Bob', 'Charlie', 'Roronoa Zoro', False];
 ```
 let myVariable = document.querySelector('h1');
 ```
+
+## Comments
+
+Comments are snippets of text that can be added along with the code.These are ignored by the browser.
+
+There are two types of comments:
+- Single line
+```
+/// This is a single line comment.
+```
+- Multi line comment
+```
+/* This is a multi
+   line comment,
+   as it has linebreaks. */
+```
